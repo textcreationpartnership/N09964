@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <body>
          <div type="sales_catalogue_of_books">
-            <pb facs="tcp:012670_0000_0F8BE54D84CCAEF8"/>
-            <pb facs="tcp:012670_0001_0F8BE54E7880B4D8"/>
+            <pb facs="unknown:012670_0000_0F8BE54D84CCAEF8"/>
+            <pb facs="unknown:012670_0001_0F8BE54E7880B4D8"/>
             <opener>
                <dateline>Philadelphia, <date>July 15th 1773.</date>
                </dateline>
@@ -188,7 +188,7 @@
                      </row>
                      <row>
                         <cell>
-                           <pb n="2" facs="tcp:012670_0002_0F8BE54F02375648"/>
+                           <pb n="2" facs="unknown:012670_0002_0F8BE54F02375648"/>
 9.</cell>
                         <cell>Ainsworth's Latin and English Dictionary, 2 vols. <hi>gilt,</hi>
                         </cell>
@@ -304,7 +304,7 @@
                      </row>
                      <row>
                         <cell>
-                           <pb n="3" facs="tcp:012670_0002_0F8BE54F02375648"/>
+                           <pb n="3" facs="unknown:012670_0002_0F8BE54F02375648"/>
 25.</cell>
                         <cell>Beawe's Lex Mercatoria, or, the Merchants Directory, being a compleat Guide to all Men in Business, whether as Traders,—Remitters,—Owners,—Freighters,—Cap<g ref="char:EOLhyphen"/>tains—Insurers,—Brokers,—Factors,—Supercargoes,—and Agents.—Likewise calculated for the Use and Service of the Merchant,—Lawyer,—Senator,—and Gentleman,</cell>
                         <cell>2</cell>
@@ -370,7 +370,7 @@
                      <row>
                         <cell>34.</cell>
                         <cell>Helvicus's Historical and Chronological Theatre, distri<g ref="char:EOLhyphen"/>buted into equal Intervals of Tens, Fifties, and Hun<g ref="char:EOLhyphen"/>dreds
-<pb n="4" facs="tcp:012670_0003_0F8BE54FDD8A83E8"/>
+<pb n="4" facs="unknown:012670_0003_0F8BE54FDD8A83E8"/>
 With an Assignation of all the Empires, King<g ref="char:EOLhyphen"/>doms, Governments, Kings, Electors, Princes, Roman Popes, Turkish Emperors, and other famous and illus<g ref="char:EOLhyphen"/>trious Men, Prophets, Divines, Lawyers, Physicians, Philosophers, Orators, Poets, Historians, Hereticks, Rabbins, Councils, Synods, Academies, &amp;c. with the usual Epochas,</cell>
                         <cell>1</cell>
                         <cell>2</cell>
@@ -521,7 +521,7 @@ With an Assignation of all the Empires, King<g ref="char:EOLhyphen"/>doms, Gover
                      <row>
                         <cell>53.</cell>
                         <cell>The Holy Bible, with moral and practical Observations at the End of every Chapter, composed by the famous Ostervald, Professor of Divinity in Switzerland.—
-<pb n="5" facs="tcp:012670_0003_0F8BE54FDD8A83E8"/>
+<pb n="5" facs="unknown:012670_0003_0F8BE54FDD8A83E8"/>
 Translated at the Desire of, and recommended by the So<g ref="char:EOLhyphen"/>ciety for propagating Christian Knowledge. <hi>This Editi<g ref="char:EOLhyphen"/>on is printed at a low Price, for the Convenience of those sincere Christians who do not abound in Riches,</hi>
                         </cell>
                         <cell>1</cell>
@@ -667,7 +667,7 @@ Translated at the Desire of, and recommended by the So<g ref="char:EOLhyphen"/>c
                      </row>
                      <row>
                         <cell>
-                           <pb n="6" facs="tcp:012670_0004_0F8BE55081E3CB90"/>
+                           <pb n="6" facs="unknown:012670_0004_0F8BE55081E3CB90"/>
 73.</cell>
                         <cell>Family Bible, with the Apocrypha, <hi>elegantly bound and gilt in blue Morocco,</hi>
                         </cell>
@@ -861,7 +861,7 @@ Translated at the Desire of, and recommended by the So<g ref="char:EOLhyphen"/>c
                      </row>
                      <row>
                         <cell>
-                           <pb n="7" facs="tcp:012670_0004_0F8BE55081E3CB90"/>
+                           <pb n="7" facs="unknown:012670_0004_0F8BE55081E3CB90"/>
 95.</cell>
                         <cell>Gordon's Geographical Grammar,</cell>
                         <cell>0</cell>
@@ -1082,7 +1082,7 @@ Translated at the Desire of, and recommended by the So<g ref="char:EOLhyphen"/>c
                      </row>
                      <row>
                         <cell>
-                           <pb n="8" facs="tcp:012670_0005_0F8BE5560A11B2A0"/>
+                           <pb n="8" facs="unknown:012670_0005_0F8BE5560A11B2A0"/>
 126.</cell>
                         <cell>Derham's Astro-Theology,</cell>
                         <cell>0</cell>
@@ -1388,7 +1388,7 @@ Translated at the Desire of, and recommended by the So<g ref="char:EOLhyphen"/>c
                      </row>
                      <row>
                         <cell>
-                           <pb n="9" facs="tcp:012670_0005_0F8BE5560A11B2A0"/>
+                           <pb n="9" facs="unknown:012670_0005_0F8BE5560A11B2A0"/>
 159.</cell>
                         <cell>Church Catechism explained by Bishop Wake,</cell>
                         <cell>0</cell>
@@ -1551,7 +1551,7 @@ Translated at the Desire of, and recommended by the So<g ref="char:EOLhyphen"/>c
                      </row>
                      <row>
                         <cell>
-                           <pb n="10" facs="tcp:012670_0006_0F8BE5584E17BE08"/>
+                           <pb n="10" facs="unknown:012670_0006_0F8BE5584E17BE08"/>
 182.</cell>
                         <cell>Evan's Poems on several Occasions,</cell>
                         <cell>0</cell>
@@ -1680,7 +1680,7 @@ Translated at the Desire of, and recommended by the So<g ref="char:EOLhyphen"/>c
                      </row>
                      <row>
                         <cell>
-                           <pb n="11" facs="tcp:012670_0006_0F8BE5584E17BE08"/>
+                           <pb n="11" facs="unknown:012670_0006_0F8BE5584E17BE08"/>
 200.</cell>
                         <cell>Florus's History of Rome, by Clarke,</cell>
                         <cell>0</cell>
@@ -1850,7 +1850,7 @@ Translated at the Desire of, and recommended by the So<g ref="char:EOLhyphen"/>c
                      </row>
                      <row>
                         <cell>
-                           <pb n="12" facs="tcp:012670_0007_0F8BE55996820DF0"/>
+                           <pb n="12" facs="unknown:012670_0007_0F8BE55996820DF0"/>
 223.</cell>
                         <cell>Stackhouse's Life of Christ and his Apostles,</cell>
                         <cell>0</cell>
@@ -1974,7 +1974,7 @@ Translated at the Desire of, and recommended by the So<g ref="char:EOLhyphen"/>c
                      </row>
                      <row>
                         <cell>
-                           <pb n="13" facs="tcp:012670_0007_0F8BE55996820DF0"/>
+                           <pb n="13" facs="unknown:012670_0007_0F8BE55996820DF0"/>
 237.</cell>
                         <cell>Priestley's Remarks on Blackstone's Commentaries and Furneaux's Letters to Blackstone, with some other curi<g ref="char:EOLhyphen"/>ous Tracts, worthy of high Rank in every Gentleman's literary Repository, or Appendix to Blackstone,</cell>
                         <cell>0</cell>
@@ -2123,7 +2123,7 @@ Translated at the Desire of, and recommended by the So<g ref="char:EOLhyphen"/>c
                      </row>
                      <row>
                         <cell>
-                           <pb n="14" facs="tcp:012670_0008_0F8BE55A429A13A0"/>
+                           <pb n="14" facs="unknown:012670_0008_0F8BE55A429A13A0"/>
 258.</cell>
                         <cell>Cloud of Witnesses for the Royal Prerogatives of Jesus Christ, being the last Speeches and Testimonies of those who suffered for the Truth in Scotland,</cell>
                         <cell>0</cell>
@@ -2264,7 +2264,7 @@ Translated at the Desire of, and recommended by the So<g ref="char:EOLhyphen"/>c
                      <row>
                         <cell>271.</cell>
                         <cell>The Athenian Oracle, being an entire Collection of all the valuable Questions and Answers in the famous Athe<g ref="char:EOLhyphen"/>nian Mercuries, intermixed with many curious Cases in Divinity, History, Philosophy, Mathematics, Love, 
-<pb n="15" facs="tcp:012670_0008_0F8BE55A429A13A0"/>
+<pb n="15" facs="unknown:012670_0008_0F8BE55A429A13A0"/>
 Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Estimation and exceeding scarce,</hi>
                         </cell>
                         <cell>2</cell>
@@ -2479,7 +2479,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="16" facs="tcp:012670_0009_0F8BE55B099798D0"/>
+                           <pb n="16" facs="unknown:012670_0009_0F8BE55B099798D0"/>
 306.</cell>
                         <cell>Cicero Orationes Delphini,</cell>
                         <cell>0</cell>
@@ -2684,7 +2684,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="17" facs="tcp:012670_0009_0F8BE55B099798D0"/>
+                           <pb n="17" facs="unknown:012670_0009_0F8BE55B099798D0"/>
 335.</cell>
                         <cell>Voltaire's Sincere Huron,</cell>
                         <cell>0</cell>
@@ -2771,7 +2771,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="18" facs="tcp:012670_0010_0F8BE55BD3A4CB18"/>
+                           <pb n="18" facs="unknown:012670_0010_0F8BE55BD3A4CB18"/>
 347.</cell>
                         <cell>Cheyne's Essay on Health and long Life,</cell>
                         <cell>0</cell>
@@ -2886,7 +2886,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="19" facs="tcp:012670_0010_0F8BE55BD3A4CB18"/>
+                           <pb n="19" facs="unknown:012670_0010_0F8BE55BD3A4CB18"/>
 363.</cell>
                         <cell>Sybellina Oracula, Greek and Latin. <hi>Ten curious En<g ref="char:EOLhyphen"/>gravings of the Sibyls are prefixed to this Work, done at Paris in</hi> 1599.</cell>
                         <cell>0</cell>
@@ -3044,7 +3044,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="20" facs="tcp:012670_0011_0F8BE55C81C90418"/>
+                           <pb n="20" facs="unknown:012670_0011_0F8BE55C81C90418"/>
 376.</cell>
                         <cell>Ovidii Fastorum, cum notis select. variorum,</cell>
                         <cell>0</cell>
@@ -3178,7 +3178,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                </p>
             </div>
             <div type="format">
-               <pb n="21" facs="tcp:012670_0011_0F8BE55C81C90418"/>
+               <pb n="21" facs="unknown:012670_0011_0F8BE55C81C90418"/>
                <head>NEW and OLD BOOKS in Duodecimo.</head>
                <p>
                   <table>
@@ -3329,7 +3329,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="22" facs="tcp:012670_0012_0F8BE55D93344280"/>
+                           <pb n="22" facs="unknown:012670_0012_0F8BE55D93344280"/>
 414.</cell>
                         <cell>The New Miss Clarissa, a true History, 2 vols.</cell>
                         <cell>0</cell>
@@ -3486,7 +3486,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="23" facs="tcp:012670_0012_0F8BE55D93344280"/>
+                           <pb n="23" facs="unknown:012670_0012_0F8BE55D93344280"/>
 435.</cell>
                         <cell>Shakespeare's Works, with Notes by Theobald, 8 vols.</cell>
                         <cell>2</cell>
@@ -3667,7 +3667,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="24" facs="tcp:012670_0013_0F8BE5633B77E468"/>
+                           <pb n="24" facs="unknown:012670_0013_0F8BE5633B77E468"/>
 459.</cell>
                         <cell>Chambaud's Exercises for speaking French,</cell>
                         <cell>0</cell>
@@ -3880,7 +3880,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="25" facs="tcp:012670_0013_0F8BE5633B77E468"/>
+                           <pb n="25" facs="unknown:012670_0013_0F8BE5633B77E468"/>
 488.</cell>
                         <cell>Les Voyages de Cyrus, par Ramsay, 2 tom.</cell>
                         <cell>0</cell>
@@ -4091,7 +4091,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="26" facs="tcp:012670_0014_0F8BE565C20C9CC8"/>
+                           <pb n="26" facs="unknown:012670_0014_0F8BE565C20C9CC8"/>
 517.</cell>
                         <cell>Letters of a Peruvian Princess,</cell>
                         <cell>0</cell>
@@ -4242,7 +4242,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="27" facs="tcp:012670_0014_0F8BE565C20C9CC8"/>
+                           <pb n="27" facs="unknown:012670_0014_0F8BE565C20C9CC8"/>
 538.</cell>
                         <cell>Locke the famous English Philosopher, his Thoughts concerning Education,</cell>
                         <cell>0</cell>
@@ -4400,7 +4400,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      </row>
                      <row>
                         <cell>
-                           <pb n="28" facs="tcp:012670_0015_0F8BE565EC8A05F8"/>
+                           <pb n="28" facs="unknown:012670_0015_0F8BE565EC8A05F8"/>
 560.</cell>
                         <cell>Dryden's Satires of Juvenal and Persius,</cell>
                         <cell>0</cell>
@@ -4535,7 +4535,7 @@ Gallantry, and other interesting Matters, 3 vols.—<hi>This Work is in high Est
                      <row>
                         <cell>577.</cell>
                         <cell>Sir William Temple's Essays,—upon ancient and modern
-<pb n="29" facs="tcp:012670_0015_0F8BE565EC8A05F8"/>
+<pb n="29" facs="unknown:012670_0015_0F8BE565EC8A05F8"/>
 Learning,—upon the Gardens of Epicurus,—upon He<g ref="char:EOLhyphen"/>roic Virtue,—upon Poetry,</cell>
                         <cell>0</cell>
                         <cell>6</cell>
@@ -4640,7 +4640,7 @@ Learning,—upon the Gardens of Epicurus,—upon He<g ref="char:EOLhyphen"/>roic
                      </row>
                      <row>
                         <cell>
-                           <pb n="30" facs="tcp:012670_0016_0F8BE566EDF6E438"/>
+                           <pb n="30" facs="unknown:012670_0016_0F8BE566EDF6E438"/>
 591.</cell>
                         <cell>The Faith and Practice of a Church of England-Man; with Devotional Poems, Festival and Practical,</cell>
                         <cell>0</cell>
@@ -4776,7 +4776,7 @@ Learning,—upon the Gardens of Epicurus,—upon He<g ref="char:EOLhyphen"/>roic
                      </row>
                      <row>
                         <cell>
-                           <pb n="31" facs="tcp:012670_0016_0F8BE566EDF6E438"/>
+                           <pb n="31" facs="unknown:012670_0016_0F8BE566EDF6E438"/>
 610.</cell>
                         <cell>The Art of Painting, with Remarks and Observations, by Fresnoy, with Dryden's parallel between Poetry and Painting; also Graham's Account of the most emi<g ref="char:EOLhyphen"/>nent Painters both ancient and modern,</cell>
                         <cell>0</cell>
@@ -4955,7 +4955,7 @@ Learning,—upon the Gardens of Epicurus,—upon He<g ref="char:EOLhyphen"/>roic
                      </row>
                      <row>
                         <cell>
-                           <pb n="32" facs="tcp:012670_0017_0F8BE5671C935E60"/>
+                           <pb n="32" facs="unknown:012670_0017_0F8BE5671C935E60"/>
 635.</cell>
                         <cell>Dryden's original Poems with Fables ancient and mo<g ref="char:EOLhyphen"/>dern, 4 vols.—<hi>a fine Edition gilt,</hi>
                         </cell>
@@ -5106,7 +5106,7 @@ Learning,—upon the Gardens of Epicurus,—upon He<g ref="char:EOLhyphen"/>roic
                      <row>
                         <cell>656.</cell>
                         <cell>The Life and Heroic Actions of Balbe Berton, Chevalier<g ref="char:EOLhyphen"/>de
-<pb n="33" facs="tcp:012670_0017_0F8BE5671C935E60"/>
+<pb n="33" facs="unknown:012670_0017_0F8BE5671C935E60"/>
 Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vols.</cell>
                         <cell>0</cell>
                         <cell>7</cell>
@@ -5305,7 +5305,7 @@ Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vol
                      </row>
                      <row>
                         <cell>
-                           <pb n="34" facs="tcp:012670_0018_0F8BE567F62315C8"/>
+                           <pb n="34" facs="unknown:012670_0018_0F8BE567F62315C8"/>
 683.</cell>
                         <cell>Brooke's Fool of Quality, Vol. I, II, IV.</cell>
                         <cell>0</cell>
@@ -5460,7 +5460,7 @@ Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vol
                      </row>
                      <row>
                         <cell>
-                           <pb n="35" facs="tcp:012670_0018_0F8BE567F62315C8"/>
+                           <pb n="35" facs="unknown:012670_0018_0F8BE567F62315C8"/>
 704.</cell>
                         <cell>Addison on Christianity,—on Medals,—with his Drum<g ref="char:EOLhyphen"/>mer,</cell>
                         <cell>0</cell>
@@ -5590,7 +5590,7 @@ Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vol
                      </row>
                      <row>
                         <cell>
-                           <pb n="36" facs="tcp:012670_0019_0F8BE568A01833A8"/>
+                           <pb n="36" facs="unknown:012670_0019_0F8BE568A01833A8"/>
 722.</cell>
                         <cell>Squire's Answer to the Independent Whig,</cell>
                         <cell>0</cell>
@@ -5744,7 +5744,7 @@ Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vol
                      </row>
                      <row>
                         <cell>
-                           <pb n="37" facs="tcp:012670_0019_0F8BE568A01833A8"/>
+                           <pb n="37" facs="unknown:012670_0019_0F8BE568A01833A8"/>
 742.</cell>
                         <cell>Fordyce's Sermons to Young Women, 2 vols.</cell>
                         <cell>0</cell>
@@ -5888,7 +5888,7 @@ Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vol
                      </row>
                      <row>
                         <cell>
-                           <pb n="38" facs="tcp:012670_0020_0F8BE569423C9220"/>
+                           <pb n="38" facs="unknown:012670_0020_0F8BE569423C9220"/>
 762.</cell>
                         <cell>Kettlewell's Letter to a Friend on the great danger of Profuseness,</cell>
                         <cell>0</cell>
@@ -6150,7 +6150,7 @@ Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vol
                      </row>
                      <row>
                         <cell>
-                           <pb n="39" facs="tcp:012670_0020_0F8BE569423C9220"/>
+                           <pb n="39" facs="unknown:012670_0020_0F8BE569423C9220"/>
 799.</cell>
                         <cell>Armstrong's Oeconomy of Love,</cell>
                         <cell>0</cell>
@@ -6329,7 +6329,7 @@ Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vol
                      </row>
                      <row>
                         <cell>
-                           <pb n="40" facs="tcp:012670_0021_0F8BE56A49D54DB0"/>
+                           <pb n="40" facs="unknown:012670_0021_0F8BE56A49D54DB0"/>
 823.</cell>
                         <cell>Quintus Curtius's Alexander,</cell>
                         <cell>0</cell>
@@ -6514,7 +6514,7 @@ Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vol
                      </row>
                      <row>
                         <cell>
-                           <pb n="41" facs="tcp:012670_0021_0F8BE56A49D54DB0"/>
+                           <pb n="41" facs="unknown:012670_0021_0F8BE56A49D54DB0"/>
 845.</cell>
                         <cell>The Preceptor, Vol. II.</cell>
                         <cell>0</cell>
@@ -6695,7 +6695,7 @@ Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vol
                      </row>
                      <row>
                         <cell>
-                           <pb n="42" facs="tcp:012670_0022_0F8BE56AD5F385A8"/>
+                           <pb n="42" facs="unknown:012670_0022_0F8BE56AD5F385A8"/>
 869.</cell>
                         <cell>Letters of Madam de Maintenon, Vol. II.</cell>
                         <cell>0</cell>
@@ -6918,7 +6918,7 @@ Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vol
                </p>
             </div>
             <div type="format">
-               <pb n="43" facs="tcp:012670_0022_0F8BE56AD5F385A8"/>
+               <pb n="43" facs="unknown:012670_0022_0F8BE56AD5F385A8"/>
                <head>NEW and OLD BOOKS in Octavo.</head>
                <p>
                   <table>
@@ -7061,7 +7061,7 @@ Grillon,—Revised by Mr. Richardson, author of Clarissa, <hi>&amp;c.</hi> 2 vol
                      <row>
                         <cell>919.</cell>
                         <cell>The Solicitor's Practice in the High Court of Chancery
-<pb n="44" facs="tcp:012670_0023_0F8BE571031D4590"/>
+<pb n="44" facs="unknown:012670_0023_0F8BE571031D4590"/>
 epitomized from the Commencement of the Suit to the Decree, by a practising Solicitor,</cell>
                         <cell>0</cell>
                         <cell>3</cell>
@@ -7206,7 +7206,7 @@ epitomized from the Commencement of the Suit to the Decree, by a practising Soli
                </p>
             </div>
             <div type="format">
-               <pb facs="tcp:012670_0025_0F8BE57450392ED8"/>
+               <pb facs="unknown:012670_0025_0F8BE57450392ED8"/>
                <head>FOLIO.</head>
                <p>
                   <table>
@@ -7306,10 +7306,10 @@ epitomized from the Commencement of the Suit to the Decree, by a practising Soli
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:012670_0023_0F8BE571031D4590"/>
+            <pb facs="unknown:012670_0023_0F8BE571031D4590"/>
             <p>Lately published by <hi>ROBERT BELL,</hi> of <hi>PHILADELPHIA</hi> (Price Bound Four Dollars.) <hi>THE HISTORY OF THE REIGN OF CHARLES THE FIFTH, EMPEROR OF GERMANY; And of all the KINGDOMS and STATES in EUROPE, during his Age. TO WHICH IS PREFIXED, A VIEW OF THE PROGRESS OF SOCIETY IN EUROPE, From the Subversion of the ROMAN EMPIRE, to the Beginning of the Sixteenth Century. CONFIRMED BY Historical PROOFS and ILLUSTRATIONS. IN THREE VOLUMES.</hi> BY WILLIAM ROBERTSON, D. D. PRINCIPAL of the UNIVERSITY of EDINBURGH, and HISTORIOGRAPHER to HIS MAJESTY for SCOTLAND. Author of the late elegant History of Scotland.</p>
             <p>
-               <pb facs="tcp:012670_0024_0F8BE57344E04698"/>
+               <pb facs="unknown:012670_0024_0F8BE57344E04698"/>
 Lately published by <hi>ROBERT BELL,</hi> of <hi>PHILADELPHIA,</hi> (Fine Paper, One Shilling, Common Paper, Nine Pence.) <hi>DEATH: A POETICAL ESSAY. BY BEILBY PORTEUS, M. A. FELLOW of CHRIST COLLEGE.</hi>
                <q>
                   <l>Ah! why will Kings forget that they are Men?</l>
@@ -7325,7 +7325,7 @@ THIS <hi>POEM</hi> obtained the Prize left by the last Will of Mr. SEATON, as de
             <p>☞ Large Allowance to those who buy Quantities to GIVE AWAY.</p>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:012670_0024_0F8BE57344E04698"/>
+            <pb facs="unknown:012670_0024_0F8BE57344E04698"/>
             <head>Students of the Law, throughout all the British PRINTING by SUBSCRIPTION, CONDITIONS.</head>
             <p n="1">I. THE AMERICAN Edition of BACON's <hi>New Abridgment of the Law,</hi> is to be RE-PRINTED in Five <hi>Quarto</hi> Volumes, Page for Page with the last <hi>London</hi> Edition, and neatly bound.</p>
             <p n="2">II. A SPECIMEN of the Work may now be seen at ROBERT BELL's. PRINTING-OFFICE in <hi>Third-Street,</hi> Philadelphia, and will shortly be exhibited throughout all the Capital Cities and Towns in <hi>British America,</hi> and the <hi>West-Indies.</hi>
